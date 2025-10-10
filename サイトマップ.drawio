@@ -1,0 +1,103 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.1.2 Chrome/138.0.7204.243 Electron/37.4.0 Safari/537.36" version="28.1.2">
+  <diagram name="ページ1" id="fRi5b6Wc6phSPOSrd-gD">
+    <mxGraphModel dx="2246" dy="1474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FgMrKuruTDd65wcM4gsj-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FgMrKuruTDd65wcM4gsj-2" target="FgMrKuruTDd65wcM4gsj-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgMrKuruTDd65wcM4gsj-2" value="象と花ファンサイト　メイン(トップ)&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;zoutohana-fan&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="430" y="200" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FgMrKuruTDd65wcM4gsj-3" value="サイトマップイメージ(パスっぽいものは仮)&lt;div&gt;ゲスト・登録ユーザ&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="120" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FgMrKuruTDd65wcM4gsj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FgMrKuruTDd65wcM4gsj-7" target="FgMrKuruTDd65wcM4gsj-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgMrKuruTDd65wcM4gsj-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FgMrKuruTDd65wcM4gsj-7" target="FgMrKuruTDd65wcM4gsj-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgMrKuruTDd65wcM4gsj-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FgMrKuruTDd65wcM4gsj-7" target="FgMrKuruTDd65wcM4gsj-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgMrKuruTDd65wcM4gsj-7" value="お知らせ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="320" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FgMrKuruTDd65wcM4gsj-8" value="寄贈情報" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="440" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FgMrKuruTDd65wcM4gsj-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FgMrKuruTDd65wcM4gsj-10" target="FgMrKuruTDd65wcM4gsj-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgMrKuruTDd65wcM4gsj-10" value="企画情報" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="440" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FgMrKuruTDd65wcM4gsj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FgMrKuruTDd65wcM4gsj-12" target="FgMrKuruTDd65wcM4gsj-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1170" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FgMrKuruTDd65wcM4gsj-12" value="ログイン" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="200" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FgMrKuruTDd65wcM4gsj-13" value="その他情報" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="440" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FgMrKuruTDd65wcM4gsj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FgMrKuruTDd65wcM4gsj-16" target="FgMrKuruTDd65wcM4gsj-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FgMrKuruTDd65wcM4gsj-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FgMrKuruTDd65wcM4gsj-16" target="FgMrKuruTDd65wcM4gsj-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FgMrKuruTDd65wcM4gsj-16" value="企画ページ&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;zoutohana-fan/campaign/{id}&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="430" y="560" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FgMrKuruTDd65wcM4gsj-17" value="企画概要" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="680" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FgMrKuruTDd65wcM4gsj-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FgMrKuruTDd65wcM4gsj-19" target="FgMrKuruTDd65wcM4gsj-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgMrKuruTDd65wcM4gsj-19" value="書評一覧&lt;div&gt;(二次選考中)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="680" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FgMrKuruTDd65wcM4gsj-20" value="投票" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="800" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FgMrKuruTDd65wcM4gsj-21" value="「アカウントをお持ちの方はこちらの画面でログインしてください」&lt;div&gt;「アカウント登録はさわや書店で書籍を購入した際に配布された紙のQRコードから行って下さい」などの説明&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="320" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FgMrKuruTDd65wcM4gsj-22" value="ID、パスワード入力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="320" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FgMrKuruTDd65wcM4gsj-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FgMrKuruTDd65wcM4gsj-25" target="FgMrKuruTDd65wcM4gsj-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgMrKuruTDd65wcM4gsj-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FgMrKuruTDd65wcM4gsj-25" target="FgMrKuruTDd65wcM4gsj-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FgMrKuruTDd65wcM4gsj-25" value="マイページ&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;zoutohana-fan/mypage&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="585" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FgMrKuruTDd65wcM4gsj-26" value="アカウント情報&lt;div&gt;(年代、居住地など)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="705" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FgMrKuruTDd65wcM4gsj-27" value="今まで投稿した書評一覧" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="705" width="240" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
